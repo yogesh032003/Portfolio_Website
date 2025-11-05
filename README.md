@@ -3,7 +3,7 @@
 A personal portfolio website built using **HTML**, **CSS**, and **JavaScript** to showcase my projects, skills, and contact information.
 
 ## 🔗 Live Demo  
-👉 [**Check out my Portfolio**](yogesh-nirve.vercel.app/)
+👉 [**Check out my Portfolio**](https://yogesh-nirve.vercel.app/)
 
 ![Portfolio Preview](Screenshot.png)
 

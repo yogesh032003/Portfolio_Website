@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website
+#  Portfolio Website
 
 A personal portfolio website built using **HTML**, **CSS**, and **JavaScript** to showcase my projects, skills, and contact information.
 
@@ -15,7 +15,7 @@ A personal portfolio website built using **HTML**, **CSS**, and **JavaScript** t
 ![Portfolio Preview](Screenshot2.png)
 
 
-## 🧠 About
+##  About
 This is my personal website where I share my work, experience, and ways to contact me.  
 It’s fully responsive and designed to look clean on all devices.
 
@@ -36,7 +36,7 @@ It’s fully responsive and designed to look clean on all devices.
 3. Run the website  
    Just open **index.html** in your browser.
 
-## 🧩 Folder Structure
+##  Folder Structure
 ```
 css/       → Stylesheets  
 js/        → JavaScript files  

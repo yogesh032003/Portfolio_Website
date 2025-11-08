@@ -5,10 +5,13 @@ A personal portfolio website built using **HTML**, **CSS**, and **JavaScript** t
 ## 🔗 Live Demo  
 👉 [**Check out my Portfolio**](https://yogesh-nirve.vercel.app/)
 
+## Home 
 ![Portfolio Preview](Screenshot.png)
 
+## Projects 
 ![Portfolio Preview](Screenshot1.png)
 
+## Skills 
 ![Portfolio Preview](Screenshot2.png)
 
 
